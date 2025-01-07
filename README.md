@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to your Expo app 👋 -  IT3133(P) Assinment 1
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -27,7 +27,7 @@ You can start developing by editing the files inside the **app** directory. This
 
 
 ## Output
-<img src="https://github.com/user-attachments/assets/15fcae7c-33bf-429e-bc96-224d3eb54233)" width="300" height="500" />
+<img src="https://github.com/user-attachments/assets/15fcae7c-33bf-429e-bc96-224d3eb54233" width="300" height="500" />
 
 
 ## Get a fresh project
