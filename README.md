@@ -27,6 +27,7 @@ You can start developing by editing the files inside the **app** directory. This
 
 
 ## Output
+<img src="https://github.com/user-attachments/assets/15fcae7c-33bf-429e-bc96-224d3eb54233)" width="300" height="500" />
 
 
 ## Get a fresh project
